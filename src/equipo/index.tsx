@@ -55,7 +55,7 @@ function Equipo() {
 
   return (
     <div>
-      <h1>{data.team.name}</h1>
+      <h1>{data.team.name}.</h1>
 
       <h2>Información</h2>
       <p><strong>Ciudad:</strong> {data.team.info.city}</p>
